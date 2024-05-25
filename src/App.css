@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 16px;
+  margin: 16px;
+  width: 200px;
+  text-align: left;
+}
+
+.cart-list {
+  margin-top: 32px;
+}
+
+.cart-item {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 16px;
+  margin: 16px;
+  width: 200px;
+  text-align: left;
+}
