@@ -1,3 +1,4 @@
+import React from 'react';
 
 const ProductCard = ({ product, onAddToCart }) => {
   if (!product) return null;
